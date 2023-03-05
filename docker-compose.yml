@@ -1,0 +1,6 @@
+services:
+  axoniq:
+    image: axoniq/axonserver
+    ports:
+      - 8024:8024
+      - 8124:8124
