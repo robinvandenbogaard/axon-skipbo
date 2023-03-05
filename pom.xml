@@ -15,6 +15,10 @@
         <version.axon>4.7.1</version.axon>
     </properties>
 
+    <modules>
+        <module>skipbo-server</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
